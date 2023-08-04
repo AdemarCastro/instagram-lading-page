@@ -6,7 +6,7 @@ Esta é uma página de entrada do Instagram, projetada para promover o aplicativ
 
 <img src="imagens/img-readme.png" width="70%">
 
-**Confira o Deploy**: [Clique aqui](https://lading-page-instagram.vercel.app/)
+**Confira o Deploy**: [Clique aqui](https://instagram-lading-page.vercel.app/)
 
 ## Tecnologias Utilizadas
 
