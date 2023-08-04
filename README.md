@@ -2,6 +2,12 @@
 
 Esta é uma página de entrada do Instagram, projetada para promover o aplicativo e incentivar os usuários a baixá-lo. A página apresenta um telefone celular exibindo o aplicativo do Instagram e inclui opções para os usuários fazerem login, se inscreverem ou baixarem o aplicativo.
 
+## Imagem da página
+
+<img src="imagens/img-readme.png" width="70%">
+
+**Confira o Deploy**: [Clique aqui](https://lading-page-instagram.vercel.app/)
+
 ## Tecnologias Utilizadas
 
 Esta página de entrada é construída usando HTML e CSS.
